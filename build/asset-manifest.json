@@ -1,15 +1,15 @@
 {
-  "main.css": "/ReactDex/static/css/main.b8bf3b57.chunk.css",
-  "main.js": "/ReactDex/static/js/main.ca008169.chunk.js",
-  "main.js.map": "/ReactDex/static/js/main.ca008169.chunk.js.map",
-  "static/css/1.de8dd185.chunk.css": "/ReactDex/static/css/1.de8dd185.chunk.css",
-  "static/js/1.883a022c.chunk.js": "/ReactDex/static/js/1.883a022c.chunk.js",
-  "static/js/1.883a022c.chunk.js.map": "/ReactDex/static/js/1.883a022c.chunk.js.map",
-  "runtime~main.js": "/ReactDex/static/js/runtime~main.bf8c3a74.js",
-  "runtime~main.js.map": "/ReactDex/static/js/runtime~main.bf8c3a74.js.map",
-  "static/css/main.b8bf3b57.chunk.css.map": "/ReactDex/static/css/main.b8bf3b57.chunk.css.map",
-  "static/css/1.de8dd185.chunk.css.map": "/ReactDex/static/css/1.de8dd185.chunk.css.map",
-  "index.html": "/ReactDex/index.html",
-  "precache-manifest.fb05e23a75918336707c384886412ed8.js": "/ReactDex/precache-manifest.fb05e23a75918336707c384886412ed8.js",
-  "service-worker.js": "/ReactDex/service-worker.js"
+  "main.css": "/static/css/main.b8bf3b57.chunk.css",
+  "main.js": "/static/js/main.6e08c7e7.chunk.js",
+  "main.js.map": "/static/js/main.6e08c7e7.chunk.js.map",
+  "static/css/1.de8dd185.chunk.css": "/static/css/1.de8dd185.chunk.css",
+  "static/js/1.92192e9e.chunk.js": "/static/js/1.92192e9e.chunk.js",
+  "static/js/1.92192e9e.chunk.js.map": "/static/js/1.92192e9e.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.b8bf3b57.chunk.css.map": "/static/css/main.b8bf3b57.chunk.css.map",
+  "static/css/1.de8dd185.chunk.css.map": "/static/css/1.de8dd185.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.807c8dc56395b2da746bc8f4836ed0f7.js": "/precache-manifest.807c8dc56395b2da746bc8f4836ed0f7.js",
+  "service-worker.js": "/service-worker.js"
 }
